@@ -10,3 +10,5 @@ RunOnce - Starts application as a single instance (prevent second from starting)
 SendCmd.zip - A command line to send a string to a port (i.e. a printer, vision system etc.), contains example Excel file
 
 SendDLL.zip - A DLL to send a string to a port (i.e. a printer, vision system etc.), contains example Excel file
+          
+ScreenCmd.exe - screen capture, use ScreenCmd.exe c:\temp\capture when called will do a screen dump to jpg fi;e          
